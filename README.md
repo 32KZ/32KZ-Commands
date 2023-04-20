@@ -1,5 +1,6 @@
 # 32KZ Commands
-```  _____                                        _     
+```
+  _____                                           _     
  /  __ \                                         | |    
  | /  \/ ___  _ __ ___  _ __ ___   __ _ _ __   __| |___ 
  | |    / _ \| '_ ` _ \| '_ ` _ \ / _` | '_ \ / _` / __|
@@ -11,7 +12,7 @@
 #                                                       #
 # -Commands                                             #
 #	                                                      #
-#	      Takes no perameters. opens this window.               #
+#	      Takes no perameters. opens this window.         #
 #	                                                      #
 #########################################################
 
@@ -33,6 +34,6 @@
 #	      Open's LofiGirl's Youtube page in the Default   #
 #       or Open System Browser.                         #
 #	                                                      #
-#     	                                                #
+#     	                                                 #
 #########################################################
 ```
