@@ -17,6 +17,20 @@
 
 #########################################################
 #                                                       #
+# -8ball                                                #
+#	                                                #
+#	Classic 8ball! 					#
+#	has many more responces than 8.      		#
+#	Syntax: "8ball <probability question>"          #
+#	EG. 						#
+#	 "8ball How likely is it for 			#
+#	  Andrew tate to be Convicted?" 		#                                               #
+#	Responce: Such is Impossible.                   #
+#	                                                #
+#########################################################
+
+#########################################################
+#                                                       #
 # -Add                                                  #
 #	                                                #
 #	Add an infinite ammount of numbers together.    #
