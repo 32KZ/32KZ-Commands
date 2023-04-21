@@ -31,6 +31,17 @@
 
 #########################################################
 #                                                       #
+# -Punishment                                           #
+#	                                                #
+#	Have you been bad? 				#
+#	Dicipline yourself!     			#
+#	Syntax: "Punishment"				#
+#	Result? Suffering and forfillment. 		#
+#	                                                #
+#########################################################
+
+#########################################################
+#                                                       #
 # -Add                                                  #
 #	                                                #
 #	Add an infinite ammount of numbers together.    #
