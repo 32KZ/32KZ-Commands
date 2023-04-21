@@ -1,0 +1,4 @@
+make a bitwise converter 
+write a setup batch file to allow the user to set the working directory or installation of repo 
+make the init logo colored 
+make a rainbow loop command 
